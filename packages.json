@@ -1,0 +1,15 @@
+{
+  "packages": {
+    "sirius-ci/content": {
+      "dev-master": {
+        "name": "sirius-ci/content",
+        "version": "dev-master",
+        "source": {
+          "url": "https://github.com/sirius-ci/content",
+          "type": "git",
+          "reference": "master"
+        }
+      }
+    }
+  }
+}
