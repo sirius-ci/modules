@@ -10,6 +10,17 @@
           "reference": "master"
         }
       }
+    },
+    "sirius-ci/work-gu": {
+      "dev-master": {
+        "name": "sirius-ci/work-gu",
+        "version": "dev-master",
+        "source": {
+          "url": "https://github.com/sirius-ci/work-gu",
+          "type": "git",
+          "reference": "master"
+        }
+      }
     }
   }
 }
